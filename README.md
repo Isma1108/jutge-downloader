@@ -3,7 +3,7 @@ A simple bash script for download the problems from [jutge.org](https://jutge.or
 
 ## Usage
 
-Before all the execution you must execute `chmod +x downloader.sh` to execute the script.
+Before running the program you must execute `chmod +x downloader.sh` to enable the execution of the script.
 
 `./downloader.sh (name of problem)`
 
